@@ -1,4 +1,4 @@
-black==23.12.1
+black==24.3.0
 flake8==5.0.4
 flake8-docstrings==1.7.0
 pep8-naming==0.13.3
